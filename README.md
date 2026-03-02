@@ -7,7 +7,7 @@ BOM Request for GRANT:
 | TTC Low Profile Red Switch | 50 | $15.72 (welcome) |https://stackskb.com/store/ttc-low-profile-red-switch-linear/?srsltid=AfmBOooBeH32TS3VNxR8EH8PzuXnoTgbSWqNrvZmlJd9rcLfo7w-K6O9nhE |
 | PCB | 5 for each side | $34.85 | JLCPCB |
 | Hotswap Sockets | 42 | $7 | https://neomacro.in/products/kailh-mx-hotswap-socket?variant=49467139227926&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopws6OxvTnA0HYkLtu7-fKtBb5ydNaW2wSGCo4RdlMSqB_DNmhb0o8
-| Keycaps | 42 | $20 | Keycaps | https://neomacro.in/products/chocfox-cfx-choc-blank-keycaps?variant=48049351557398
+| Keycaps | 42 | $20 | https://neomacro.in/products/chocfox-cfx-choc-blank-keycaps?variant=48049351557398
 BOM That I will be buying:
 | Component | Quantity | Price (USD) | Source |
 | --------- | -------- | ----------- | ------ |
