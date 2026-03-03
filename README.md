@@ -15,6 +15,6 @@ BOM Request for GRANT:
 <img width="1652" height="851" alt="Screenshot 2026-02-26 025907" src="https://github.com/user-attachments/assets/afce4de6-c8b2-44a6-96bf-4a66d8dfcf98" />
 
 **JLC**
-<img width="1678" height="927" alt="Screenshot 2026-02-26 030301" src="https://github.com/user-attachments/assets/e8b13d72-a397-4241-8534-6c5aedd43b2a" />
+<img width="1537" height="741" alt="image" src="https://github.com/user-attachments/assets/a6bbf85b-336e-463a-aade-4a279b752933" />
 
 <img width="1877" height="939" alt="Screenshot 2026-02-26 030311" src="https://github.com/user-attachments/assets/d8e50b6b-01fb-429f-ae76-6c0811512529" />
